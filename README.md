@@ -1,5 +1,5 @@
 # Prueba front end Remix!
-
+- [Tailwind Docs](https://remix.run/docs](https://tailwindcss.com/docs/installation))
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
